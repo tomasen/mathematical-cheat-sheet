@@ -1,5 +1,20 @@
 # Mathematical Notations Cheat Sheet
- 
+
+## Functions
+
+| Notation | How to Read This |
+|:--------:|:-----------------|
+| $$f : A \to B$$ | f is a **function** from the set A to the set B <br>(a rule that assigns every element 𝑥 ∈ 𝐴 a unique element 𝑓(𝑥) ∈ 𝐵.) |
+| $$x \mapsto f(x)$$ | x **is mapped to** f(x) |
+| $$g: \mathbb{R} \to \mathbb{C}, \quad \theta \mapsto g(\theta) := e^{i\theta}$$ | g from R(real numbers) to C(complex numbers), theta maps to g of theta, defined as(given by) e to the i theta |
+| $$f: \mathbb{R} \to \mathbb{R}, \quad x \mapsto f(x) := 1 + x^2$$ | f from R(real numbers) to R, x maps to f of x, defined as(given by) one plus x squared |
+| $$h: \mathbb{C} \to [0, \infty), \quad z \mapsto h(z) := \|z\|$$ | h from C(complex numbers) to zero to infinity, z maps to h of z, defined as(given by) the modulus of z |
+| $$\text{im}(f)$$ | **image** or **range** of f |
+| $$\text{im}(f) = B$$ | the image(range) of f equals B <br>(the image (or range) of the function f is equal to the set B)|
+| $$f: A \to \text{im}(f)$$ | f from A to the image of f <br>(the image of the function, includes all the outputs the function can produce as its input varies over the set A.)|
+| $$f^{-1}$$ | **inverse function** of f |
+| $$f^{-1}(b) := a$$ | f inverse of b is defined as(given by) a |
+
 # Calculus Operation Notations
 
 | Notation | How to Read This |
@@ -62,19 +77,6 @@
 | $$(a, \infty)$$ | The half line starting at a and extending to **infinity**, **exclusive** of a. |
 | $$(-\infty, a)$$ | The half line starting at **negative infinity** and extending to a, **exclusive** of a. |
 
-
-## Functions
-
-| Notation | How to Read This |
-|:--------:|:-----------------|
-| $$f : A \to B$$ | f is a **function** from A to B |
-| $$x \mapsto f(x)$$ | x **is mapped to** f(x) |
-| $$\text{im}(f)$$ | **image** or **range** of f |
-| $$f \text{ is surjective}$$ | f is **surjective** or **onto** |
-| $$f \text{ is injective}$$ | f is **injective** or **one-to-one** |
-| $$f \text{ is bijective}$$ | f is **bijective** |
-| $$f^{-1}$$ | **inverse function** of f |
-
 ## Angle Operations Cheat Sheet
 
 | Notation | How to Read This |
@@ -117,3 +119,4 @@
 | $$\log x$$ | the **logarithm** of x (base 10) |
 | $$\ln x$$ | the **natural logarithm** of x (base e) |
 | $$e^x$$ | e **to the power of** x |
+| $$\|x\|$$ | the **modulus** of x |
