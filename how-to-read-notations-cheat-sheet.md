@@ -9,7 +9,7 @@
 | $$\int_a^b f(x) \, dx$$ | The **definite integral** of f from a to b with respect to x |
 | $$\lim_{x \to a} f(x)$$ | The **limit** of f as x approaches a |
 | $$\sum_{n=1}^{\infty} a_n$$ | The **sum** of a sub n from n equals 1 to infinity |
-| $$\binom{n}{k}$$ | n choose k (the number of ways to choose k elements from a set of n elements) |
+| $`\binom{n}{k}`$ or $`nC_k`$ | n choose k (the number of ways to choose k elements from a set of n elements) |
 | $$\sum_{k=0}^n \binom{n}{k}$$ | The sum from k equals zero to n of n choose k |
 | $$n!$$ | n factorial (the product of all positive integers up to n) |
 | $$\prod_{k=1}^n k$$ | The product from k equals one to n of k (n factorial) |
