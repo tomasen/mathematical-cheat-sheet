@@ -28,7 +28,7 @@
 | $$S_1 \Leftrightarrow S_2$$ | S sub one is **equivalent to** S sub two |
 | $$\exists$$ | **there exists** |
 | $$\forall$$ | **for all** |
-| $`\{ \dots \}`$ | **set** |
+| $`\{a, b, c\}`$ | the set of a, b, and c |
 | $$a \in A$$ | a is an **element of** A |
 | $`\emptyset`$ or $`\{\}`$ | **empty set** |
 | $$A \subseteq B$$ | A is a **subset of** B |
