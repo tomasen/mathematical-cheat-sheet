@@ -12,15 +12,15 @@
 | $$\lim_{x \to a} f(x)$$ | The **limit** of f as x approaches a |
 | $`\binom{n}{k}`$ or $`nC_k`$ | n choose k (the number of ways to choose k elements from a set of n elements) |
 | $$n!$$ | n factorial (the product of all positive integers up to n) |
-| $$\prod_{k=1}^n k$$ | The product from k equals one to n of k (n factorial) |
 
-## Sum
+## Sum and Product
 
 | Notation | How to Read This |
 |:--------:|:-----------------|
 | $$\sum_{n=1}^{\infty} a_n$$ | The **sum** of a sub n from n equals 1 to infinity |
 | $$\sum_{k=0}^n \binom{n}{k}$$ | The sum from k equals zero to n of n choose k |
 | $$\left(\sum_{k=1}^n a_k b_k\right)^2$$ | The square of the sum of the products of a sub k and b sub k from k equals 1 to n |
+| $$\prod_{k=1}^n k$$ | The product from k equals one to n of k (n factorial) |
 
 ## Partial Derivative
 
