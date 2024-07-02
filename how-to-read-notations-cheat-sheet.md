@@ -10,8 +10,13 @@
 | $$\int f(x) dx$$ | The **integral** of f with respect to x |
 | $$\int_a^b f(x) dx$$ | The **definite integral** of f from a to b with respect to x |
 | $$\lim_{x \to a} f(x)$$ | The **limit** of f as x approaches a |
-| $`\binom{n}{k}`$ or $`nC_k`$ | n choose k (the number of ways to choose k elements from a set of n elements) |
+
+## Factorials and Binomial Coefficients
+
+| Notation | How to Read This |
+|:--------:|:-----------------|
 | $$n!$$ | n factorial (the product of all positive integers up to n) |
+| $`\binom{n}{k}`$ or $`nC_k`$ | n choose k (the number of ways to choose k elements from a set of n elements) |
 
 ## Sum and Product
 
