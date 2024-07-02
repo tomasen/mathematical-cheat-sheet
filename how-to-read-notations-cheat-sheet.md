@@ -4,9 +4,11 @@
 
 | Notation | How to Read This |
 |:--------:|:-----------------|
+| $$\frac{d}{dx}$$ | d by dx (the differential operator indicating derivation with respect to x) |
 | $$\frac{d}{dx} f(x)$$ | The **derivative** of f with respect to x |
-| $$\int f(x) \, dx$$ | The **integral** of f with respect to x |
-| $$\int_a^b f(x) \, dx$$ | The **definite integral** of f from a to b with respect to x |
+| $$f'(x)$$ | f prime of x (the derivative of f with respect to x) |
+| $$\int f(x) dx$$ | The **integral** of f with respect to x |
+| $$\int_a^b f(x) dx$$ | The **definite integral** of f from a to b with respect to x |
 | $$\lim_{x \to a} f(x)$$ | The **limit** of f as x approaches a |
 | $$\sum_{n=1}^{\infty} a_n$$ | The **sum** of a sub n from n equals 1 to infinity |
 | $`\binom{n}{k}`$ or $`nC_k`$ | n choose k (the number of ways to choose k elements from a set of n elements) |
@@ -58,7 +60,25 @@
 | $$f \text{ is bijective}$$ | f is **bijective** |
 | $$f^{-1}$$ | **inverse function** of f |
 
+## Angle Operations Cheat Sheet
 
+| Notation | How to Read This |
+|:--------:|:-----------------|
+| $$\sin \theta$$ | sine of theta |
+| $$\cos \theta$$ | cosine of theta |
+| $$\tan \theta$$ | tangent of theta |
+| $$\csc \theta$$ | cosecant of theta |
+| $$\sec \theta$$ | secant of theta |
+| $$\cot \theta$$ | cotangent of theta |
+| $$\sin^{-1} x$$ | arcsine of x or inverse sine of x |
+| $$\cos^{-1} x$$ | arccosine of x or inverse cosine of x |
+| $$\tan^{-1} x$$ | arctangent of x or inverse tangent of x |
+| $$\sin(\alpha \pm \beta)$$ | sine of (alpha plus or minus beta) |
+| $$\cos(\alpha \pm \beta)$$ | cosine of (alpha plus or minus beta) |
+| $$\tan(\alpha \pm \beta)$$ | tangent of (alpha plus or minus beta) |
+| $$\theta \pm \phi$$ | theta plus or minus phi |
+| $$\theta \cdot \phi$$ | theta times phi |
+| $$\theta / \phi$$ | theta over phi |
 
 ## Basic
 
